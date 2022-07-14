@@ -7,7 +7,7 @@
 
 
 ## Requirements
-## Enviroment
+
  - `Python 3.6`
  - [`Pytorch`](http://pytorch.org/) >= 1.7.0 
  - `Torchvision` = 0.10
