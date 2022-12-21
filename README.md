@@ -2,7 +2,7 @@
 
 ## [**Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment**](https://arxiv.org/abs/2210.01439) [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2210.01439)
 
-Zican Zha, [**Hao Tang**](https://scholar.google.com/citations?hl=zh-CN&user=DZXShkoAAAAJ), [Yunlian Sun](https://scholar.google.com/citations?user=ObAJh4IAAAAJ&hl=zh-CN), [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN)
+Zican Zha, [**Hao Tang**](https://scholar.google.com/citations?hl=zh-CN&user=DZXShkoAAAAJ), [Yunlian Sun](https://scholar.google.com/citations?user=ObAJh4IAAAAJ&hl=zh-CN), and [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN)
 
 > This code is only to give paper reviewers a verification and academic research. After the paper is accepted, we will polish and optimize the code.
 
@@ -22,12 +22,12 @@ Zican Zha, [**Hao Tang**](https://scholar.google.com/citations?hl=zh-CN&user=DZX
 
 ```bash
 
-nohup python train.py --dataset [type of dataset] --model [backbone] --num_classes [num-classes] --nExemplars [num-shots]
-nohup python test.py --dataset CUB-200-2011 --model R --num_classes 100 --nExemplars 5
+python train.py --dataset [type of dataset] --model [backbone] --num_classes [num-classes] --nExemplars [num-shots]
+python test.py --dataset CUB-200-2011 --model R --num_classes 100 --nExemplars 5
 
-# Example: run on CUB dataset, ResNet-12 backbone, 5 way 1 shot
-nohup python train.py --dataset CUB-200-2011 --model R --num_classes 100 --nExemplars 1
-nohup python test.py --dataset CUB-200-2011 --model R --num_classes 100 --nExemplars 1
+# Example: run on CUB dataset, ResNet-12 backbone, 5-way 1-shot
+python train.py --dataset CUB-200-2011 --model R --num_classes 100 --nExemplars 1
+python test.py --dataset CUB-200-2011 --model R --num_classes 100 --nExemplars 1
 
 ```
 
