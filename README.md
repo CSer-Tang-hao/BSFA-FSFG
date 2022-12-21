@@ -1,12 +1,14 @@
 # BSFA-FSFG
 
-## Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment 
-This code is only to give paper reviewers a verification and academic research. After the paper is accepted, we will polish and optimize the code.
+## [**Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment**](https://arxiv.org/abs/2210.01439) [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2210.01439)
 
-> [**Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment**](https://arxiv.org/abs/2210.01439)
-> [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2210.01439)
-<br>
-> Zican Zha, [Hao Tang](https://scholar.google.com/citations?hl=zh-CN&user=DZXShkoAAAAJ), [Yunlian Sun](https://scholar.google.com/citations?user=ObAJh4IAAAAJ&hl=zh-CN), [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN)
+Zican Zha, [**Hao Tang**](https://scholar.google.com/citations?hl=zh-CN&user=DZXShkoAAAAJ), [Yunlian Sun](https://scholar.google.com/citations?user=ObAJh4IAAAAJ&hl=zh-CN), [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN)
+
+> This code is only to give paper reviewers a verification and academic research. After the paper is accepted, we will polish and optimize the code.
+
+
+
+
 
 
 ## Requirements
