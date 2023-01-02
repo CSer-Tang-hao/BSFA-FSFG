@@ -52,5 +52,4 @@ Please cite our paper if you find the work useful, thanks!
 
 This code is based on the implementations of [**fewshot-CAN**](https://github.com/blue-blue272/fewshot-CAN).
 
-**[⬆ back to top](#1-preface)**
 
