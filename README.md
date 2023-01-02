@@ -1,14 +1,12 @@
-# BSFA-FSFG
+# Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment (BSFA-FSFG)
 
-## [**Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment**](https://arxiv.org/abs/2210.01439) [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2210.01439)
+> **Authors:** 
+> Zican Zha,
+> [**Hao Tang**](https://scholar.google.com/citations?hl=zh-CN&user=DZXShkoAAAAJ),
+> [Yunlian Sun](https://scholar.google.com/citations?user=ObAJh4IAAAAJ&hl=zh-CN),
+> and [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN).
 
-Zican Zha, [**Hao Tang**](https://scholar.google.com/citations?hl=zh-CN&user=DZXShkoAAAAJ), [Yunlian Sun](https://scholar.google.com/citations?user=ObAJh4IAAAAJ&hl=zh-CN), and [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN)
-
-> This code is only to give paper reviewers a verification and academic research. After the paper is accepted, we will polish and optimize the code.
-
-
-
-
+This repository provides code for "_**Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment**_" IEEE TCSVT 2023. [![Arxiv Page](https://img.shields.io/badge/Arxiv-2210.01439-red?style=flat-square)](https://arxiv.org/abs/2210.01439)
 
 
 ## Requirements
@@ -31,15 +29,27 @@ python test.py --dataset CUB-200-2011 --model R --num_classes 100 --nExemplars 1
 
 ```
 
-[comment]: <> (### Data Preparation)
+## Data Preparation
 
-[comment]: <> (Download Datasets from:)
+> Download Datasets from [Baidu Drive](https://pan.baidu.com/s/1Bevdjvf5xjroy3U-DA6w7Q) (extraction code: ZZC3)
 
-[comment]: <> (链接：https://pan.baidu.com/s/1Bevdjvf5xjroy3U-DA6w7Q )
+## Citation
+Please cite our paper if you find the work useful, thanks!
+	
+	@article{zha2023boosting,
+	   title={Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment},
+	   author={Zha, Zican and Tang, Hao and Sun, Yunlian and Tang, Jinhui},
+	   journal={IEEE Transactions on Circuits and Systems for Video Technology},
+	   volume={},
+	   pages={},
+	   year={2023},
+	   publisher={IEEE}
+	}
 
-[comment]: <> (提取码：ZZC3)
 
 ## Acknowledgement
 
 This code is based on the implementations of [**fewshot-CAN**](https://github.com/blue-blue272/fewshot-CAN).
+
+**[⬆ back to top](#1-preface)**
 
