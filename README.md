@@ -16,6 +16,11 @@ This repository provides code for "_**Boosting Few-shot Fine-grained Recognition
  - `Torchvision` = 0.10
  - `scikit-image` = 0.18.1
 
+
+## Data Preparation
+
+> Download Datasets from [Baidu Drive](https://pan.baidu.com/s/1Bevdjvf5xjroy3U-DA6w7Q) (extraction code: ZZC3)
+
 ## How to run
 
 ```bash
@@ -28,10 +33,6 @@ python train.py --dataset CUB-200-2011 --model R --num_classes 100 --nExemplars 
 python test.py --dataset CUB-200-2011 --model R --num_classes 100 --nExemplars 1
 
 ```
-
-## Data Preparation
-
-> Download Datasets from [Baidu Drive](https://pan.baidu.com/s/1Bevdjvf5xjroy3U-DA6w7Q) (extraction code: ZZC3)
 
 ## Citation
 Please cite our paper if you find the work useful, thanks!
