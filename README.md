@@ -36,19 +36,22 @@ python test.py --dataset CUB-200-2011 --model R --num_classes 100 --nExemplars 1
 
 ## Citation
 Please cite our paper if you find the work useful, thanks!
-	
-	@article{zha2023boosting,
-	   title={Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment},
-	   author={Zha, Zican and Tang, Hao and Sun, Yunlian and Tang, Jinhui},
-	   journal={IEEE Transactions on Circuits and Systems for Video Technology},
-	   year={2023},
-	   publisher={IEEE},
+  ```bibtex
+    @article{zha2023boosting,
+       title={Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment},
+       author={Zha, Zican and Tang, Hao and Sun, Yunlian and Tang, Jinhui},
+       journal={IEEE Transactions on Circuits and Systems for Video Technology},
+       year={2023},
+       publisher={IEEE},
        doi={10.1109/TCSVT.2023.3236636}
-	}
+    }
+  ```
+
 
 ## Other related papers 
 
-     @article{TangYLT22,
+```bibtex
+  @article{TangYLT22,
           author    = {Hao Tang and Chengcheng Yuan and Zechao Li and Jinhui Tang},
           title     = {Learning attention-guided pyramidal features for few-shot fine-grained recognition},
           journal   = {Pattern Recognit.},
@@ -56,7 +59,7 @@ Please cite our paper if you find the work useful, thanks!
           pages     = {108792},
           year      = {2022}
         }
-
+  ```
 
 ## Acknowledgement
 
