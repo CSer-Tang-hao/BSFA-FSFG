@@ -46,6 +46,17 @@ Please cite our paper if you find the work useful, thanks!
        doi={10.1109/TCSVT.2023.3236636}
 	}
 
+## Other related papers 
+
+     @article{TangYLT22,
+          author    = {Hao Tang and Chengcheng Yuan and Zechao Li and Jinhui Tang},
+          title     = {Learning attention-guided pyramidal features for few-shot fine-grained recognition},
+          journal   = {Pattern Recognit.},
+          volume    = {130},
+          pages     = {108792},
+          year      = {2022}
+        }
+
 
 ## Acknowledgement
 
