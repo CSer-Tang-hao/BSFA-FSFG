@@ -37,7 +37,7 @@ python test.py --dataset CUB-200-2011 --model R --num_classes 100 --nExemplars 1
 ## Citation
 Please cite our paper if you find the work useful, thanks!
   ```bibtex
-    @article{zha2023boosting,
+     @article{zha2023boosting,
        title={Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment},
        author={Zha, Zican and Tang, Hao and Sun, Yunlian and Tang, Jinhui},
        journal={IEEE Transactions on Circuits and Systems for Video Technology},
@@ -50,15 +50,15 @@ Please cite our paper if you find the work useful, thanks!
 
 ## Other related papers 
 
-```bibtex
-  @article{TangYLT22,
+  ```bibtex
+     @article{TangYLT22,
           author    = {Hao Tang and Chengcheng Yuan and Zechao Li and Jinhui Tang},
           title     = {Learning attention-guided pyramidal features for few-shot fine-grained recognition},
           journal   = {Pattern Recognit.},
           volume    = {130},
           pages     = {108792},
           year      = {2022}
-        }
+     }
   ```
 
 ## Acknowledgement
