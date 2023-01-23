@@ -41,10 +41,9 @@ Please cite our paper if you find the work useful, thanks!
 	   title={Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment},
 	   author={Zha, Zican and Tang, Hao and Sun, Yunlian and Tang, Jinhui},
 	   journal={IEEE Transactions on Circuits and Systems for Video Technology},
-	   volume={},
-	   pages={},
 	   year={2023},
-	   publisher={IEEE}
+	   publisher={IEEE},
+       doi={10.1109/TCSVT.2023.3236636}
 	}
 
 
