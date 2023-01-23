@@ -6,7 +6,7 @@
 > [Yunlian Sun](https://scholar.google.com/citations?user=ObAJh4IAAAAJ&hl=zh-CN),
 > and [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN).
 
-This repository provides code for "_**Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment**_" IEEE TCSVT 2023. [![Arxiv Page](https://img.shields.io/badge/Arxiv-2210.01439-red?style=flat-square)](https://arxiv.org/abs/2210.01439)
+This repository provides code for "_**Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment**_" IEEE TCSVT 2023. [![IEEE Page](https://img.shields.io/badge/IEEE-TCSVT.2023.3236636-green?style=flat-square)](https://ieeexplore.ieee.org/abstract/document/10018260) [![Arxiv Page](https://img.shields.io/badge/Arxiv-2210.01439-red?style=flat-square)](https://arxiv.org/abs/2210.01439)
 
 
 ## Requirements
