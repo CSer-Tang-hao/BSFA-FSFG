@@ -19,7 +19,7 @@ This repository provides code for "_**Boosting Few-shot Fine-grained Recognition
 
 ## Data Preparation
 
-> Download Datasets from [Baidu Drive](https://pan.baidu.com/s/1Bevdjvf5xjroy3U-DA6w7Q) (extraction code: ZZC3)
+> Download Datasets from [Baidu Drive](https://pan.baidu.com/s/1Bevdjvf5xjroy3U-DA6w7Q) (extraction code: ZZC3)  
 > Download Datasets from [Google Drive](https://drive.google.com/file/d/1hK3JwmaM28UnX_yNwm6sGbisCXhF7gJ7/view?usp=sharing)
 
 ## How to run
