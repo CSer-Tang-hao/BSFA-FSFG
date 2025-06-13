@@ -8,6 +8,22 @@
 
 This repository provides code for "_**Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment**_" IEEE TCSVT 2023. [![IEEE Page](https://img.shields.io/badge/IEEE-TCSVT.2023.3236636-green?style=flat-square)](https://ieeexplore.ieee.org/abstract/document/10018260) [![Arxiv Page](https://img.shields.io/badge/Arxiv-2210.01439-red?style=flat-square)](https://arxiv.org/abs/2210.01439)
 
+--------------------------------------------------------------------------------------
+### 📢 Join Our WeChat Group for Discussion
+
+If you're interested in **Fine-Grained Few-Shot Learning** and would like to exchange ideas, share papers, or discuss research challenges, feel free to scan one of the QR codes below to join our WeChat group. Let's build a collaborative community around this exciting topic!
+
+<p align="center">
+  <img src="QR.jpg" alt="WeChat Group QR Code" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="WeChat.jpg" alt="WeChat Personal QR Code" width="200"/>
+</p>
+
+<p align="center">
+  <em>Left: Group QR Code &nbsp;&nbsp;&nbsp;&nbsp; Right: Add the group admin directly</em>
+</p>
+
+--------------------------------------------------------------------------------------
 
 ## Requirements
 
