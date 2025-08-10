@@ -11,17 +11,12 @@ This repository provides code for "_**Boosting Few-shot Fine-grained Recognition
 --------------------------------------------------------------------------------------
 ### 📢 Join Our WeChat Group for Discussion
 
-If you're interested in **Fine-Grained Few-Shot Learning** and would like to exchange ideas, share papers, or discuss research challenges, feel free to scan one of the QR codes below to join our WeChat group. Let's build a collaborative community around this exciting topic!
+If you're interested in **Fine-Grained Few-Shot Learning** and would like to exchange ideas, share papers, or discuss research challenges, feel free to scan the QR codes below to contact with me. Let's build a collaborative community around this exciting topic!
 
 <p align="center">
-  <img src="QR.jpg" alt="WeChat Group QR Code" width="200"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="WeChat.jpg" alt="WeChat Personal QR Code" width="200"/>
 </p>
 
-<p align="center">
-  <em>Left: Group QR Code &nbsp;&nbsp;&nbsp;&nbsp; Right: Add the group admin directly</em>
-</p>
 
 --------------------------------------------------------------------------------------
 
